@@ -1,7 +1,7 @@
 ## hello!
 im a 12 year old programmer/game developer and i am willing to take on **almost any challenge!**
 
-## 🧠what i know  
+## 🧠What I Know  
 
 > - html  
 > - css  
@@ -9,13 +9,13 @@ im a 12 year old programmer/game developer and i am willing to take on **almost 
 > - roblox lua  
 > - c#  
 
-## ➕what i want to learn/improve on  
+## ➕What I Want To Learn/Improve On  
 
 > - c#  
 > - Java  
 > - JavaScript  
 
-## what im working on  
+## What Projects Im Working On  
 
 > - creating my own OS  
 > - a roblox admin system  
