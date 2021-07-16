@@ -21,7 +21,7 @@ im a 12 year old programmer/game developer and i am willing to take on **almost 
 > - a roblox admin system  
 > - a social network website  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightman210567)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightman210567&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
