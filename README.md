@@ -1,5 +1,5 @@
 ## hello!
-im a 12 year old programmer/game developer and i am willing to take on almost any challenge!
+im a 12 year old programmer/game developer and i am willing to take on **almost any challenge!**
 
 <!--
 **lightman210567/lightman210567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
