@@ -17,8 +17,7 @@ im a 12 year old programmer/game developer and i am willing to take on **almost 
 
 ## What Projects Im Working On  
 
-> - creating my own OS  
-> - a roblox admin system  
+> - creating my own OS    
 > - a social network website  
 
 ## My GitHub Stats
