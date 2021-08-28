@@ -3,15 +3,14 @@ im a 12 year old programmer/game developer
 
 ## 🧠What I Know  
 
-> - html  
-> - css  
-> - rust  
-> - roblox lua  
-> - c#  
+> - HTML   
+> - CSS  
+> - Rust  
+> - Roblox Lua  
 
 ## ➕What I Want To Learn/Improve On  
 
-> - c#  
+> - C#  
 > - Java  
 > - JavaScript  
 > - Ethical Hacking  
