@@ -14,15 +14,17 @@ im a 12 year old programmer/game developer
 > - c#  
 > - Java  
 > - JavaScript  
+> - Ethical Hacking  
 
 ## What Projects Im Working On  
 
 > - creating my own OS    
 > - a social network website  
 
-## My GitHub Stats
+## My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightman210567&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightman210567&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<script src="https://tryhackme.com/badge/617641"></script>
 
 > most of my projects are not open source
 
