@@ -5,7 +5,6 @@ im a 12 year old programmer/game developer
 
 > - HTML   
 > - CSS  
-> - Rust  
 > - Roblox Lua  
 
 ## ➕What I Want To Learn/Improve On  
