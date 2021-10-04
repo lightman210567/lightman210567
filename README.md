@@ -15,8 +15,7 @@ im a 12 year old programmer/game developer
 
 ## What Projects Im Working On  
 
-> - creating my own OS    
-> - a social network website  
+
 
 ## My Stats
 
