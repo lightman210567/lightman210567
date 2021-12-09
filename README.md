@@ -1,5 +1,5 @@
 ## hello!
-im a 12 year old programmer/game developer
+im a 13 year old programmer/game developer
 
 ## 🧠What I Know  
 
