@@ -14,7 +14,6 @@
 
 ## What Projects Im Working On  
 
-> - A Internet ICT Challenge  
 
 ## My Stats
 
