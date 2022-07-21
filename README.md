@@ -3,7 +3,8 @@
 ## 🧠What I Know  
 
 > - HTML   
-> - CSS  
+> - CSS 
+> - C#
 
 ## ➕What I Want To Learn/Improve On  
 
@@ -18,8 +19,6 @@
 ## My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightman210567&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightman210567&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-> most of my projects are not open source
 
 
 
