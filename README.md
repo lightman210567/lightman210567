@@ -16,6 +16,7 @@
 
 ## What Projects Im Working On  
 
+> - Encipher
 > - Apollo Research Facility (roblox game)
 
 ## Projects I have worked on
