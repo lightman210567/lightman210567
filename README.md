@@ -9,25 +9,30 @@
 
 ## ➕What I Want To Learn/Improve On  
 
-> - C#  
-> - Java  
-> - JavaScript  
-> - Ethical Hacking  
+> - JavaScript
+> - Python
 
 ## What Projects Im Working On  
 
 > - Encipher
-> - Apollo Research Facility (roblox game)
 
 ## Projects I have worked on
 
 > - TGenerator
 > - ASCII-converter
 
+## Signatures
+
+**Only signatures with a ✔ are verified. Do not download any files not signed with one of these signatures.**
+
+**Please alert me if you find commits or files with invalid signatures *by creating an issue on the target repository.***
+
+> - ✔ 6AC4AFD8FCB97CB1 (81330314+lightman210567@users.noreply.github.com)
+> - ✔ BD0CCD8A84AE1B9C (81330314+lightman210567@users.noreply.github.com)
+
 ## My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightman210567&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightman210567&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
