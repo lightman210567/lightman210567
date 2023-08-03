@@ -11,24 +11,23 @@
 
 ## 🧠What I Know  
 
-> - HTML   
-> - CSS 
 > - C#
 > - Luau (roblox)
+> - Python
 
 ## ➕What I Want To Learn/Improve On  
 
-> - JavaScript
 > - Python
 
 ## What Projects Im Working On  
 
-> - Encipher
+> - Encipher-python
 
 ## Projects I have worked on
 
 > - TGenerator
 > - ASCII-converter
+> - Encipher (C# version)
 
 ## My Stats
 
