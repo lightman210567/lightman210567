@@ -21,7 +21,7 @@
 
 ## What Projects Im Working On  
 
-> - Encipher-python
+> - Encipherpy
 
 ## Projects I have worked on
 
