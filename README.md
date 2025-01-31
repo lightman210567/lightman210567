@@ -9,17 +9,15 @@
 > - ✔ 6AC4AFD8FCB97CB1 (81330314+lightman210567@users.noreply.github.com)
 > - ✔ BD0CCD8A84AE1B9C (81330314+lightman210567@users.noreply.github.com)
 
-## 🧠What I Know  
+## What i know
+
+> - Python
+
+## What I'm learning
 
 > - C#
-> - Luau (roblox)
-> - Python
 
-## ➕What I Want To Learn/Improve On  
-
-> - Python
-
-## What Projects Im Working On  
+## What Projects I'm Working On  
 
 > - Encipherpy
 
@@ -28,6 +26,7 @@
 > - TGenerator
 > - ASCII-converter
 > - Encipher (C# version)
+> - Encipherpy
 
 ## My Stats
 
