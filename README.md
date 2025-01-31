@@ -17,10 +17,6 @@
 
 > - C#
 
-## What Projects I'm Working On  
-
-> - Encipherpy
-
 ## Projects I have worked on
 
 > - TGenerator
